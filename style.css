@@ -104,3 +104,8 @@ footer p {
 footer:hover{
     background-color: blueviolet;
 }
+
+img{
+    width="80px" 
+    height="80px"
+}
